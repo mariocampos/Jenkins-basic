@@ -5,9 +5,9 @@
 * Para Linux:
 
 ```bash
-apt-get install docker docker-cli
+sudo apt-get update && apt-get install docker-ce docker-ce-cli containerd.io
 ```
 * Para Windows/MacOS:
 
-    - Ingresamos a la [aquí](https//www.google.com), lo cual descargará Docker para escritorio.
+    - Ingresamos a la [aquí](https://www.docker.com/products/docker-desktop), lo cual descargará Docker para escritorio.
 
