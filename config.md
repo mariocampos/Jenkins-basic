@@ -10,7 +10,7 @@ sudo apt-get update && apt-get install docker-ce docker-ce-cli containerd.io
 ```
 * Para Windows/MacOS:
 
-    - Ingresamos a la [aquí](https://www.docker.com/products/docker-desktop), lo cual descargará Docker para escritorio.
+    - Ingresamos a la ruta [aquí](https://www.docker.com/products/docker-desktop), lo cual descargará Docker para escritorio.
 
 2. En esta ocación vamos a instalar Jenkins mediante Docker, para ello ejecutamos el siguiente comando:
 ```bash
